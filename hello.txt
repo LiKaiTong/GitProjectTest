@@ -11,3 +11,5 @@ hello world! 3
 ---- hot fix ----
 
 master modify
+hot-fix modify
+
